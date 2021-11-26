@@ -1,0 +1,66 @@
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replGry.txt /F loc\da.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_da.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replGry.txt /F loc\de.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_de.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replGry.txt /F loc\en.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_en.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replGry.txt /F loc\es.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_es.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replGry.txt /F loc\fr.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_fr.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replGry.txt /F loc\it.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_it.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replGry.txt /F loc\nl.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_nl.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replGry.txt /F loc\no.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_no.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replGry.txt /F loc\pl.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_pl.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replGry.txt /F loc\pt.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_pt.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replGry.txt /F loc\sv.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_sv.strings
+call JREPL.BAT replace\txt\HPWU\zh_find.txt replace\txt\HPWU\replGry.txt /F loc\zh-Hant-TW.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_zh.strings
+call JREPL.BAT replace\txt\HPWU\ja_find.txt replace\txt\HPWU\replGry.txt /F loc\ja.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_ja.strings
+call JREPL.BAT replace\txt\HPWU\ko_find.txt replace\txt\HPWU\replGry.txt /F loc\ko.lproj\InfoPlist.strings /l /t file /o Gryffindor_InfoPlist_ko.strings
+
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replHuff.txt /F loc\da.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_da.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replHuff.txt /F loc\de.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_de.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replHuff.txt /F loc\en.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_en.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replHuff.txt /F loc\es.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_es.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replHuff.txt /F loc\fr.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_fr.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replHuff.txt /F loc\it.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_it.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replHuff.txt /F loc\nl.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_nl.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replHuff.txt /F loc\no.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_no.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replHuff.txt /F loc\pl.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_pl.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replHuff.txt /F loc\pt.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_pt.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replHuff.txt /F loc\sv.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_sv.strings
+call JREPL.BAT replace\txt\HPWU\zh_find.txt replace\txt\HPWU\replHuff.txt /F loc\zh-Hant-TW.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_zh.strings
+call JREPL.BAT replace\txt\HPWU\ja_find.txt replace\txt\HPWU\replHuff.txt /F loc\ja.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_ja.strings
+call JREPL.BAT replace\txt\HPWU\ko_find.txt replace\txt\HPWU\replHuff.txt /F loc\ko.lproj\InfoPlist.strings /l /t file /o Hufflepuff_InfoPlist_ko.strings
+
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replRav.txt /F loc\da.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_da.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replRav.txt /F loc\de.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_de.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replRav.txt /F loc\en.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_en.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replRav.txt /F loc\es.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_es.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replRav.txt /F loc\fr.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_fr.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replRav.txt /F loc\it.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_it.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replRav.txt /F loc\nl.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_nl.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replRav.txt /F loc\no.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_no.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replRav.txt /F loc\pl.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_pl.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replRav.txt /F loc\pt.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_pt.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replRav.txt /F loc\sv.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_sv.strings
+call JREPL.BAT replace\txt\HPWU\zh_find.txt replace\txt\HPWU\replRav.txt /F loc\zh-Hant-TW.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_zh.strings
+call JREPL.BAT replace\txt\HPWU\ja_find.txt replace\txt\HPWU\replRav.txt /F loc\ja.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_ja.strings
+call JREPL.BAT replace\txt\HPWU\ko_find.txt replace\txt\HPWU\replRav.txt /F loc\ko.lproj\InfoPlist.strings /l /t file /o Ravenclaw_InfoPlist_ko.strings
+
+
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replSly.txt /F loc\da.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_da.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replSly.txt /F loc\de.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_de.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replSly.txt /F loc\en.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_en.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replSly.txt /F loc\es.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_es.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replSly.txt /F loc\fr.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_fr.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replSly.txt /F loc\it.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_it.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replSly.txt /F loc\nl.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_nl.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replSly.txt /F loc\no.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_no.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replSly.txt /F loc\pl.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_pl.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replSly.txt /F loc\pt.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_pt.strings
+call JREPL.BAT replace\txt\HPWU\en_find.txt replace\txt\HPWU\replSly.txt /F loc\sv.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_sv.strings
+call JREPL.BAT replace\txt\HPWU\zh_find.txt replace\txt\HPWU\replSly.txt /F loc\zh-Hant-TW.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_zh.strings
+call JREPL.BAT replace\txt\HPWU\ja_find.txt replace\txt\HPWU\replSly.txt /F loc\ja.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_ja.strings
+call JREPL.BAT replace\txt\HPWU\ko_find.txt replace\txt\HPWU\replSly.txt /F loc\ko.lproj\InfoPlist.strings /l /t file /o Slytherin_InfoPlist_ko.strings
+
+call JREPL.BAT replace\txt\HPWU\find.txt replace\txt\HPWU\replIGry.txt /F Info.plist /l /t file /o Info_Gryffindor.plist
+call JREPL.BAT replace\txt\HPWU\find.txt replace\txt\HPWU\replIHuff.txt /F Info.plist /l /t file /o Info_Hufflepuff.plist
+call JREPL.BAT replace\txt\HPWU\find.txt replace\txt\HPWU\replIRav.txt /F Info.plist /l /t file /o Info_Ravenclaw.plist
+call JREPL.BAT replace\txt\HPWU\find.txt replace\txt\HPWU\replISly.txt /F Info.plist /l /t file /o Info_Slytherin.plist
+call JREPL.BAT replace\txt\HPWU\find.txt replace\txt\HPWU\replIClo.txt /F Info.plist /l /t file /o Info_Clone.plist

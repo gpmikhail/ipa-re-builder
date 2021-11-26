@@ -1,0 +1,1 @@
+call JREPL.BAT replace\txt\POGO\find.txt replace\txt\POGO\replBlue.txt /F Info.plist /l /t file /o Info_Blue.plist

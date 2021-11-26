@@ -1,0 +1,2 @@
+>Pokémon GO<
+com.nianticlabs.pokemongo
